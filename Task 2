@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Landing Page</title>
+
+  <!-- ✅ CSS added directly inside HTML -->
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #e9f0f3;
+      color: #222;
+    }
+
+    header {
+      background-color: #007BFF;
+      color: white;
+      text-align: center;
+      padding: 2rem 0;
+    }
+
+    .features {
+      display: flex;
+      justify-content: space-around;
+      margin: 2rem;
+    }
+
+    .feature {
+      background: white;
+      padding: 1rem;
+      border-radius: 10px;
+      width: 25%;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #007BFF;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to CodeCanvas</h1>
+    <p>Modern Solutions for Your Needs</p>
+  </header>
+
+  <section class="features">
+    <div class="feature">
+      <h2>Fast</h2>
+      <p>Quick loading and responsive</p>
+    </div>
+    <div class="feature">
+      <h2>Secure</h2>
+      <p>Top-notch security features</p>
+    </div>
+    <div class="feature">
+      <h2>Reliable</h2>
+      <p>Always up and running</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 My Product Landing Page</p>
+  </footer>
+</body>
+</html>
