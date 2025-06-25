@@ -13,7 +13,7 @@
   </header>
 
   <section id="about">
-    <img src="profile.jpg" alt="My Photo" />
+    <img src="Ankita profile image.jpg" alt="My Photo" />
     <p>Hello! I'm Ankita Kumari, an CE student passionate about front-end development.</p>
   </section>
 
@@ -37,7 +37,7 @@
 
   <section id="resume">
     <h2>Resume</h2>
-    <a href="resume.pdf" target="_blank">Download My Resume (PDF)</a>
+    <a href="https://drive.google.com/drive/folders/11n9nqjivpPPIjcRqm1t43sgoNK5g4MpI?usp=drive_link" target="_blank">Download My Resume (PDF)</a>
   </section>
 
   <section id="contact">
