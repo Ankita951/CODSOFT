@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Ankita Kumari</h1>
+    <p>Aspiring Web Developer</p>
+  </header>
+
+  <section id="about">
+    <img src="profile.jpg" alt="My Photo" />
+    <p>Hello! I'm Ankita Kumari, an CE student passionate about front-end development.</p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>MySQL</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Online Bookstore</h3>
+      <p>Developed using PHP, MySQL, HTML/CSS</p>
+    </div>
+  </section>
+
+  <section id="resume">
+    <h2>Resume</h2>
+    <a href="resume.pdf" target="_blank">Download My Resume (PDF)</a>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: 2007kumariankita@gmail.com</p>
+    <p>Phone: 9876543210</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Ankita Kumari | Portfolio</p>
+  </footer>
+</body>
+</html>
